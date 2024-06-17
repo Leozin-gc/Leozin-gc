@@ -6,3 +6,6 @@
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-BR/Profile?csrf=fpbw28cHEKt8sfRGJ2gELUzLRLOxOMcOIInrnzixCeTq8hlsKRI4LSQEQ7YU1BIElz6U-RvHn2WJl6LWfWtt9nBGWQA1&wa=wsignin1.0)
 
 
+[![Lezin GitHub stats](https://github-readme-status.vercel.app/api?username=Leozin-gc&show_icons=true&theme=radical)
+
+
