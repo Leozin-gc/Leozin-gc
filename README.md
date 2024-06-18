@@ -27,4 +27,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [Nexdrones](https://www.nexdrones.com.br/)<br/>
 - [Casa Do Piso](https://casadopiso.com.br/)<br/>
 - [Portfolio](https://leocv.netlify.app/)<br/>
+- [Cubo](https://cubo-leozin.netlify.app/)<br/>
 
