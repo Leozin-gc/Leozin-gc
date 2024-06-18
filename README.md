@@ -9,6 +9,7 @@
 
 
 [![Github](https://img.shields.io/github/followers/viivi02?label=Follow&style=social)](https://github.com/Leozin-gc)
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-BR/Profile?csrf=fpbw28cHEKt8sfRGJ2gELUzLRLOxOMcOIInrnzixCeTq8hlsKRI4LSQEQ7YU1BIElz6U-RvHn2WJl6LWfWtt9nBGWQA1&wa=wsignin1.0)
 
 <div size='20px'><h3> Hi! My name is Leonardo Galetti. Thank You for taking the time to view my GitHub Profile :smile: </h3>
 </div>
@@ -40,7 +41,7 @@
 <br>
 <h2>My GitHub Status</h2>
   
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leozin-gc&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Leozin-gc&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leozin-gc&theme=tokyonight)  ![Github Stars](https://github-readme-stats.vercel.app/api?username=Leozin-gc&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
