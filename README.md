@@ -40,10 +40,25 @@
 <br>
 <h2>My GitHub Status</h2>
   
-
+| ![Leonardo github stats](https://github-readme-stats.vercel.app/api?username=viivi02&show_icons=true&theme=tokyonight) | ![Leonardo GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leozin-gc&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C1EA5BA%2C051462)|
+| --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leozin-gc&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Leozin-gc&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação
+
+## Ultimas Criações :
+
+- [Nexuav](https://nexuav.com.br/)<br/>
+- [Nexdrones](https://www.nexdrones.com.br/)<br/>
+- [Casa Do Piso](https://casadopiso.com.br/)<br/>
+- [Portfolio](https://leocv.netlify.app/)<br/>
+- [Cubo](https://cubo-leozin.netlify.app/)<br/>
+
+
+
 <br>
+
